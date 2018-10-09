@@ -1,0 +1,38 @@
+html {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 12px;
+  width: auto;
+  font-size: 12px;
+}
+
+
+
+li {
+    display: block;
+    display: inline;
+}
+
+.floatright {
+  float: right;
+}
+
+.floatleft {
+  float: left;
+}
+
+
+end {
+  background-color: #f1f1f1;
+  width: 100%
+}
+
+.border {
+  border: 1px solid powderblue;
+  background-color: #f1f1f1;
+  width: 100%;
+}
